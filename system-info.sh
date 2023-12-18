@@ -1,4 +1,5 @@
 #vi /opt/scripts/system-info.sh
+#test 
 
 #!/bin/bash
 echo -e "-------------------------------System Information----------------------------"
